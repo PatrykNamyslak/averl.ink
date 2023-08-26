@@ -3,13 +3,13 @@ URL shortening made simple
 
 **** PLEASE READ THE LICENCE.TXT BEFORE USE, AS ANY COPYRIGHT INFRINGEMENT WILL BE ACTED UPON ACCORDINGLY & ALWAYS ASSUMING THE LICENCE WAS READ AND ACKNOWLEDGED ****
 
-a) 🟢 | Getting Started
+# a) 🟢 | Getting Started
 
 First of all you will need a LAMP server (Linux, Apache2, MySQL, Php).
 this will allow you to utilise all of the features of the link shortener.
 
 
-b) 🖥️ | Setting Up The Permissions and Directories
+# b) 🖥️ | Setting Up The Permissions and Directories
 
 but you also need to have the correct permissions set up for the folders
 which are required for this to work properly such as a directory
