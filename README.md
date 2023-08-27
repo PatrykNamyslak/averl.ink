@@ -3,6 +3,11 @@ URL shortening made simple
 
 **** PLEASE READ THE LICENCE.TXT BEFORE USE, AS ANY COPYRIGHT INFRINGEMENT WILL BE ACTED UPON ACCORDINGLY & ALWAYS ASSUMING THE LICENCE WAS READ AND ACKNOWLEDGED ****
 
+
+Official Web Release:  https://averl.ink/
+
+
+
 # a) 🟢 | Getting Started
 
 First of all you will need a LAMP server (Linux, Apache2, MySQL, Php).
