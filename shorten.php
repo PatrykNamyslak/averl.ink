@@ -1,6 +1,6 @@
 <?php
 
-include_once $_SERVER['DOCUMENT_ROOT'] . '/assets/php/db-connection.php';
+include_once $_SERVER['DOCUMENT_ROOT'] . '/path/to/db-connection.php';
 
 $dbh = CreateDatabaseConnection();
 
