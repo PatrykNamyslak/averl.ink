@@ -22,7 +22,9 @@ for:
 
 
 •The website itself
+
 •The shortened links
+
 •The Assets required for this to work
 
 ** MAKE SURE THE SHORTEN.PHP FILE IS IN THE SAME DIRECTORY AS THE INDEX.PHP FILE, RIGHT NOW 
