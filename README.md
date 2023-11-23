@@ -34,11 +34,17 @@ I DO NOT HAVE AN EXPLAINATION FOR THIS BUT ILL DOCUMENT THIS IN THE BUGS SECTION
 •Basic Understanding of PHP.
 
 •Intermediate Understanding of Databases and database management.
+
 -Intermediate Understanding of MySQL/SQL.
+
 -Knowledge and skills to set up a database from scratch.
 
+
 •intermediate Understanding on how a server works and how to run one safely but efficiently.
+
 -Understanding in how permissions work in linux.
+
 -Semi-Advanced Understanding in BASH.
+
 
 ****  TO BE CONTINUED  ****
