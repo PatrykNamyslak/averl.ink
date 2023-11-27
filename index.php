@@ -29,13 +29,6 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/assets/php/head.php';
 </body>
 </html>
 
-
-
-               ©2023 Aver Digital
-               
-               ©2023 Aver Technologies
-              
-               ©2023 Aver Media Group
               
                ©2023 Patryk Namyslak
                

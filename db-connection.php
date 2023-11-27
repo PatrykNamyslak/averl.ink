@@ -13,11 +13,6 @@ function CreateDatabaseConnection(){
 }
 
 ?>
-               ©2023 Aver Digital
-               
-               ©2023 Aver Technologies
-              
-               ©2023 Aver Media Group
               
                ©2023 Patryk Namyslak
                

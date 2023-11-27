@@ -90,13 +90,6 @@ if (isset($_POST['url_to_shorten'])) {
 // Close the database connection
 $dbh = null;
 ?>
-              
-               ©2023 Aver Digital
-               
-               ©2023 Aver Technologies
-              
-               ©2023 Aver Media Group
-              
                ©2023 Patryk Namyslak
                
                
